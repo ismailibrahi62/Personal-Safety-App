@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "715629759512",
+    "project_id": "personalsafety-8efc1",
+    "storage_bucket": "personalsafety-8efc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715629759512:android:935886d2321192d54ec76d",
+        "android_client_info": {
+          "package_name": "com.ismail.personalsafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2szIG0uX2RvAwH2HHwQuPNvFnUfa-iMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
